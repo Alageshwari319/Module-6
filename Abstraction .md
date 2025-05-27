@@ -58,3 +58,4 @@ print("Area of a circle:", cir.calculate_area()) #call to 'calculate_area' metho
 
 
 ## Result
+Thus, the program is executed successfully
